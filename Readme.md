@@ -1,0 +1,1 @@
+I have done task about create own resume data with for loop examples.
